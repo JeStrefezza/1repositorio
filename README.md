@@ -1,7 +1,8 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Gostei muito do curso da DIO... Professores muito bons</span>
+    <span> Gostei muito do curso da DIO... Professores fantasticos !!! Muito bons.</span>
+<h1>
     <span> Versionamento de Código com Git e GitHub</span>
 </h1>
 
